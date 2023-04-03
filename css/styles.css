@@ -1,0 +1,27 @@
+body{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:5vw;
+}
+
+nav{
+    position:sticky;
+    top:10px;
+    order:-1;
+    height:30vh;
+}
+
+main{
+    width:70vh;
+}
+
+main section{
+    margin:0 0 10em 0;
+    padding:2em 0 0 0;
+}
+
+footer{
+    width:100vw;
+}
