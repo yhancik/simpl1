@@ -25,3 +25,12 @@ main section{
 footer{
     width:100vw;
 }
+
+/* TYPOGRAPHY */
+h1, h2{
+    font-weight: 400;
+}
+
+h1{
+    font-size:3em;
+}
